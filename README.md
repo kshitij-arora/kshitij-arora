@@ -31,7 +31,7 @@
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"/>
     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  title="JavaScript"/>
     <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node" />
-    <img align="left" alt="Java" width="26px" src="https://github.com/kshitij-arora/kshitij-arora/blob/main/src/Untitled%20design%20(3).png?raw=true" title="Java"/>
+    <img align="left" alt="Java" width="30px" src="https://github.com/kshitij-arora/kshitij-arora/blob/main/src/Untitled%20design%20(3).png?raw=true" title="Java"/>
     <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" />
     <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" />
 </p>
