@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-arora&hide_border=true&theme=onedark&lang_count=3&layout=compact)
 
-## My Toolkit⚙️
+## ⚙️My Toolkit
 
 <p>
     <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" title="Python" />
