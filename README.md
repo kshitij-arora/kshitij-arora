@@ -1,6 +1,6 @@
 # Hi there, I am Kshitij Arora 👋
 
-### A 19 year old Computer Science Undergrad Student 💻 and Machine Learning enthusiast🤖 at Indian Institute of Technology, Guwahati
+### A 21 year old Computer Science Undergrad Student 💻 and Machine Learning enthusiast🤖 at Indian Institute of Technology, Guwahati
 
 ## 💡Currently learning the following skills
 
