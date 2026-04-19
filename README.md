@@ -1,37 +1,88 @@
-# Hi there, I am Kshitij Arora 👋
 
-### A 21 year old Computer Science Undergrad Student 💻 and Machine Learning enthusiast🤖 at Indian Institute of Technology, Guwahati
+<div align="center">
 
-## 💡Currently learning the following skills
+# Kshitij Arora
 
-- Blockchain💲
-- Machine Learning🤖
-- Web-Development🌐
+**Building the infrastructure layer for AI**
 
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=kshitij-arora&show_icons=true&hide_border=true&theme=onedark)
+`IIT Guwahati '23` &nbsp; `Ex-Microsoft` &nbsp; `Founding Engineer @ Trupeer.ai`
 
-## 🎯Future Targets
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijarora10)
+[![Website](https://img.shields.io/badge/kshitijarora.com-000?style=flat&logo=safari&logoColor=white)](https://kshitijarora.com)
+[![Email](https://img.shields.io/badge/hello@kshitijarora.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@kshitijarora.com)
 
-- Create a Physics Engine⚛️
-- Contributing to Open-Source🤝
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-arora&hide_border=true&theme=onedark&lang_count=3&layout=compact)
+---
 
-## ⚙️My Toolkit
+### About
 
-<p>
-    <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" title="Python" />
-    <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="C++" />
-    <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/718px-Tensorflow_logo.svg.png" title="Tensorflow" />
-    <img align="left" alt="Solidity" width="26px" src="https://github.com/kshitij-arora/kshitij-arora/blob/main/src/Untitled%20design.png?raw=true" title="Solidity" />
-    <img align="left" alt="Ethereum" width="20px" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" title="Ethereum" />
-    <img align="left" alt="Truffle" width="26px" src="https://github.com/kshitij-arora/kshitij-arora/blob/main/src/Untitled%20design%20(1).png?raw=true" title="Truffle" />
-    <img align="left" alt="Ganache" width="26px" src="https://github.com/kshitij-arora/kshitij-arora/blob/main/src/Untitled%20design%20(2).png?raw=true" title="Ganache" />
-    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"/>
-    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"/>
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  title="JavaScript"/>
-    <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node" />
-    <img align="left" alt="Java" width="30px" src="https://github.com/kshitij-arora/kshitij-arora/blob/main/src/Untitled%20design%20(3).png?raw=true" title="Java"/>
-    <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" />
-    <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" />
-</p>
+I build systems, not features. Currently deep in the AI infrastructure space — solving the gap between *"it works in my notebook"* and *"it works for users."*
+
+My career arc: **IIT** taught me how to think about problems. **Microsoft** taught me how to build at scale. **Trupeer** taught me how to build from zero with no safety net. Now putting all three together.
+
+---
+
+### Where I've Built
+
+**Trupeer.ai** — *Founding Engineer*
+- Took the company from **$100K to $1M+** in revenue
+- Built the entire video processing engine — script-based trimming, AI voiceovers, smart zoom, talking photos
+- Created a visual context layer with vision models that made Trupeer the market leader
+
+**Microsoft** — *SDE, Threat Protection*
+- Notification system that cut response times by **90%** — became one of the most promising projects in the org
+- 3 full-stack security dashboards improving threat acknowledgment speed by **7%**
+- Turned down SDE-2 promotion to bet on startups
+
+---
+
+### Technical DNA
+
+```
+Backend        Go  ·  C#/.NET  ·  Node.js  ·  Python
+AI/ML          Vision Models  ·  LLMs  ·  Embeddings  ·  Vector Search  ·  Production ML
+Frontend       React  ·  TypeScript  ·  Next.js  ·  Three.js  ·  Tailwind
+Infrastructure Azure  ·  Helm  ·  CI/CD  ·  Serverless  ·  Microservices
+```
+
+---
+
+### Things I Believe
+
+> AI infra is the real opportunity — not AI apps. Everyone's building apps; the infrastructure is still wide open.
+
+> Agents over tools. The future isn't better buttons — it's stating intent and letting agents figure the rest out.
+
+> Every SaaS product from the last decade will be rebuilt with AI as core architecture, not bolted on as a feature.
+
+> Ship every week. Talk to users every day. The scariest thing is spending months building the wrong thing perfectly.
+
+---
+
+### Experiments & Wins
+
+| Project | Context | Result |
+|---|---|---|
+| **CultureCred** | Microsoft Hackathon — GPT + Graph API + crypto rewards | 48-hour build, inclusive communication scoring |
+| **Metamask ADs** | Inter-IIT Tech Meet 11.0 — led team of 8 | Silver Medal |
+| **Drug Distribution Chain** | EY Techathon — IoT sensors + blockchain | Jury's Special Mention / 1500 teams |
+| **AI-Powered Search** | Semantic search with LLM interfaces | Powers search on my portfolio |
+
+---
+
+### Numbers
+
+```
+JEE Advanced    AIR 495 / 1.7L students
+JEE Mains      Rank 482 / 8.7L students
+KVPY            Rank 367 / 1.2L students
+```
+
+---
+
+<div align="center">
+
+*I'd rather be fast and wrong than slow and right.*
+
+</div>
