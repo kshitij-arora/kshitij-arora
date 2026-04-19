@@ -1,88 +1,119 @@
 
 <div align="center">
 
-# Kshitij Arora
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Kshitij+Arora+%F0%9F%91%8B;Building+the+infra+layer+for+AI+%F0%9F%9A%80;Systems+thinker.+Shipping+addict.+%E2%9A%A1" alt="Typing SVG" />
 
-**Building the infrastructure layer for AI**
+<br/>
 
-`IIT Guwahati '23` &nbsp; `Ex-Microsoft` &nbsp; `Founding Engineer @ Trupeer.ai`
+`🎓 IIT Guwahati '23` &nbsp; `🔷 Ex-Microsoft` &nbsp; `🚀 Founding Engineer @ Trupeer.ai`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijarora10)
-[![Website](https://img.shields.io/badge/kshitijarora.com-000?style=flat&logo=safari&logoColor=white)](https://kshitijarora.com)
-[![Email](https://img.shields.io/badge/hello@kshitijarora.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@kshitijarora.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijarora10)
+[![Website](https://img.shields.io/badge/🌐_kshitijarora.com-000?style=for-the-badge)](https://kshitijarora.com)
+[![Email](https://img.shields.io/badge/📬_Say_Hello-EA4335?style=for-the-badge)](mailto:hello@kshitijarora.com)
 
 </div>
 
----
+<br/>
 
-### About
+## 🧠 About
 
-I build systems, not features. Currently deep in the AI infrastructure space — solving the gap between *"it works in my notebook"* and *"it works for users."*
+I build **systems**, not features. Currently deep in the AI infrastructure space — solving the gap between *"it works in my notebook"* and *"it works for users."*
 
-My career arc: **IIT** taught me how to think about problems. **Microsoft** taught me how to build at scale. **Trupeer** taught me how to build from zero with no safety net. Now putting all three together.
+> 🏛️ **IIT** taught me how to think about problems.
+> 🏢 **Microsoft** taught me how to build at scale.
+> 🚀 **Trupeer** taught me how to build from zero with no safety net.
+> 🔮 Now putting all three together.
 
----
+<br/>
 
-### Where I've Built
+## 🏗️ Where I've Built
 
-**Trupeer.ai** — *Founding Engineer*
-- Took the company from **$100K to $1M+** in revenue
-- Built the entire video processing engine — script-based trimming, AI voiceovers, smart zoom, talking photos
-- Created a visual context layer with vision models that made Trupeer the market leader
+<table>
+<tr>
+<td width="50%">
 
-**Microsoft** — *SDE, Threat Protection*
-- Notification system that cut response times by **90%** — became one of the most promising projects in the org
-- 3 full-stack security dashboards improving threat acknowledgment speed by **7%**
-- Turned down SDE-2 promotion to bet on startups
+### 🚀 Trupeer.ai — *Founding Engineer*
+- 📈 Took revenue from **$100K → $1M+**
+- 🎬 Built entire video processing engine — script-based trimming, AI voiceovers, smart zoom, talking photos
+- 👁️ Created visual context layer with vision models — made Trupeer the **market leader**
 
----
+</td>
+<td width="50%">
 
-### Technical DNA
+### 🔷 Microsoft — *SDE, Threat Protection*
+- ⚡ Notification system that cut response times by **90%**
+- 🛡️ 3 full-stack security dashboards — **7% faster** threat acknowledgment
+- 🚪 Turned down SDE-2 promotion to bet on startups
 
-```
-Backend        Go  ·  C#/.NET  ·  Node.js  ·  Python
-AI/ML          Vision Models  ·  LLMs  ·  Embeddings  ·  Vector Search  ·  Production ML
-Frontend       React  ·  TypeScript  ·  Next.js  ·  Three.js  ·  Tailwind
-Infrastructure Azure  ·  Helm  ·  CI/CD  ·  Serverless  ·  Microservices
-```
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### Things I Believe
+## ⚙️ Technical DNA
 
-> AI infra is the real opportunity — not AI apps. Everyone's building apps; the infrastructure is still wide open.
+<div align="center">
 
-> Agents over tools. The future isn't better buttons — it's stating intent and letting agents figure the rest out.
+| 🔧 Backend | 🤖 AI / ML | 🎨 Frontend | ☁️ Infrastructure |
+|:---:|:---:|:---:|:---:|
+| Go | Vision Models | React | Azure |
+| C# / .NET | LLMs | TypeScript | Helm |
+| Node.js | Embeddings | Next.js | CI/CD |
+| Python | Vector Search | Three.js | Serverless |
+| | Production ML | Tailwind | Microservices |
 
-> Every SaaS product from the last decade will be rebuilt with AI as core architecture, not bolted on as a feature.
+</div>
 
-> Ship every week. Talk to users every day. The scariest thing is spending months building the wrong thing perfectly.
+<br/>
 
----
+## 💡 Things I Believe
 
-### Experiments & Wins
+> 🏗️ **AI infra is the real opportunity** — not AI apps. Everyone's building apps; the infrastructure is still wide open.
 
-| Project | Context | Result |
-|---|---|---|
-| **CultureCred** | Microsoft Hackathon — GPT + Graph API + crypto rewards | 48-hour build, inclusive communication scoring |
-| **Metamask ADs** | Inter-IIT Tech Meet 11.0 — led team of 8 | Silver Medal |
-| **Drug Distribution Chain** | EY Techathon — IoT sensors + blockchain | Jury's Special Mention / 1500 teams |
-| **AI-Powered Search** | Semantic search with LLM interfaces | Powers search on my portfolio |
+> 🤖 **Agents over tools.** The future isn't better buttons — it's stating intent and letting agents figure the rest out.
 
----
+> 🔄 **Every SaaS product** from the last decade will be rebuilt with AI as core architecture, not bolted on as a feature.
 
-### Numbers
+> 🏃 **Ship every week. Talk to users every day.** The scariest thing is spending months building the wrong thing perfectly.
 
-```
-JEE Advanced    AIR 495 / 1.7L students
-JEE Mains      Rank 482 / 8.7L students
-KVPY            Rank 367 / 1.2L students
-```
+<br/>
+
+## 🧪 Experiments & Wins
+
+| 🏷️ Project | 📝 Context | 🏆 Result |
+|:---|:---|:---|
+| **CultureCred** | Microsoft Hackathon — GPT + Graph API + crypto rewards | ⚡ 48-hour build |
+| **Metamask ADs** | Inter-IIT Tech Meet 11.0 — led team of 8 | 🥈 Silver Medal |
+| **Drug Distribution Chain** | EY Techathon — IoT sensors + blockchain | 🌟 Jury's Special Mention / 1500 teams |
+| **AI-Powered Search** | Semantic search with LLM interfaces | 🔍 Powers search on my portfolio |
+
+<br/>
+
+## 📊 Numbers That Matter
+
+<div align="center">
+
+| 🎯 Exam | 🏅 Rank | 📌 Out Of |
+|:---|:---:|:---:|
+| JEE Advanced | **AIR 495** | 1.7L students |
+| JEE Mains | **482** | 8.7L students |
+| KVPY | **367** | 1.2L students |
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-*I'd rather be fast and wrong than slow and right.*
+**⚡ *I'd rather be fast and wrong than slow and right.* ⚡**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kshitij-arora&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 
 </div>
