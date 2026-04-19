@@ -112,8 +112,4 @@ I build **systems**, not features. Currently deep in the AI infrastructure space
 
 **⚡ *I'd rather be fast and wrong than slow and right.* ⚡**
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kshitij-arora&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
-
 </div>
